@@ -1,0 +1,5 @@
+Model,Ukupno parametara,Obucivi (faza 1),Obucivi (faza 2),Odmrznuto slojeva,Dubina osnove
+CNN (od nule),1208419,1206499,1206499,0,36
+ResNet50,23593859,6147,17190915,37,175
+DenseNet121,7040579,3075,2857987,92,427
+EfficientNet-B0,4053414,3843,3058463,57,238
