@@ -221,6 +221,8 @@ __marimo__/
 
 # Dataset i rezultati eksperimenata
 data/
+chest_xray/
+outputs/
+models/
 *.keras
 *.h5
-*.weights.h5
