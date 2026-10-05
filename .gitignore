@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset i rezultati eksperimenata
+data/
+*.keras
+*.h5
+*.weights.h5
